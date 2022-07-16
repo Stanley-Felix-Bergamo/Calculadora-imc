@@ -1,0 +1,36 @@
+body {
+    background: url(../Assets/divulgar-consultorio-medico.jpg) center/cover no-repeat fixed;
+}
+
+.Container {
+    margin-top: 6%;
+    margin-left: 15%;
+    font-family: serif;
+    background-color: rgba(255, 255, 255, 0.548);
+    max-width: 500px;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+input {
+    border-radius: 5px;
+    display: block;
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.btn {
+    background-color: rgba(255, 255, 255, 0.938);
+    border-radius: 5px;
+    height: 40px;
+    width: 140px;
+}
+
+.btn:hover {
+    background-color: rgba(4, 8, 255, 0.322);
+}
+
+.btn:active {
+    background-color: rgba(255, 255, 255, 0);
+}
