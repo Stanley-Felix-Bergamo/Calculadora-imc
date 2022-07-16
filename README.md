@@ -1,10 +1,19 @@
 # Calculadora Imc
 
-<h1 align="center">
 
-</h1>
 
 <p>Saiba mais acessando o site <a href="https://stanley-felix-bergamo.github.io/Calculadora-imc/">Clicando aki</a></p> 
+
+
+<h2>👨‍🏫 Créditos </h2>
+<p>
+Este projeto foi realizado nas aulas do Curso do Igor Oliveira.
+<a href="https://programadorbr.com/"><br><br>
+<img align="center" alt="HTML" height="40" width="50" src="https://programadorbr.com/static/media/logo.7fe897a1.svg">&nbsp;
+Curso Desenvolvimento Web Full Stack
+</a>
+
+</p>
 
 <h2>💻 Tecnologias utilizadas</h2>
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
